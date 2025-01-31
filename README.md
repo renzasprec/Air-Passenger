@@ -1,2 +1,3 @@
-# Air Passenger
- Time-series problem using SARIMAX on Air Passenger data in Python
+Air Passenger - Time-Series (Python)
+
+Forecasting the number of air passengers using SARIMAX in statsmodels.
